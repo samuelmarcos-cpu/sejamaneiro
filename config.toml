@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "pt-br"
+defaultContentLanguage = "pt"
 title = "Seja Maneiro"
 theme = "ananke"
